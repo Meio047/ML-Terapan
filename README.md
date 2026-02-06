@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning (Muhammad Akmal Maulana)
+# Laporan Proyek Machine Learning
 
 ## **Domain Proyek**
 
